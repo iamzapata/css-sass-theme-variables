@@ -1,0 +1,22 @@
+:root {
+  --highlight-color: #fa5959;
+  --text-color-primary: #000;
+
+  --nav-color: #2f3b48;
+  --nav-text-color: #9da7b6;
+  --nav-text-active-color: var(--highlight-color);
+
+  --subnav-color: #24303e;
+  --subnav-text-color: #9da7b6;
+  --subnav-text-active-color: var(--highlight-color);
+
+  --square-border-radius: 6px;
+
+  --background-color: #ffffff;
+
+  --link-color: var(--highlight-color);
+
+  --primary-button-color: rgb(69, 218, 190);
+
+  --secondary-button-color: var(--highlight-color);
+}

@@ -1,0 +1,22 @@
+@import 'variables.css';
+
+$highlight-color: var(--highlight-color);
+$text-color-primary: var(--text-color-primary);
+
+$nav-color: var(--nav-color);
+$nav-text-color: var(--nav-text-color);
+$nav-text-active-color: var(--highlight-color);
+
+$subnav-color: var(--subnav-color);
+$subnav-text-color: var(--subnav-text-color);
+$subnav-text-active-color: var(--highlight-color);
+
+$square-border-radius: var(--square-border-radius);
+
+$background-color: var(--background-color);
+
+$link-color: var(--highlight-color);
+
+$primary-button-color: var(--primary-button-color);
+
+$secondary-button-color: var(--highlight-color);
